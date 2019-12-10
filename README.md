@@ -2,7 +2,7 @@
 
 ## Group Members:
 -Gideon Karasek
-\n-Joseph Cohen
+-Joseph Cohen
 
 ## Goals
 Our goal is to perform an exploratory data analysis on data collected from an API and any additional sources we choose.
